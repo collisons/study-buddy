@@ -47,6 +47,22 @@ window.STUDY_SITE = {
           note: "Match \u2192 Some help \u2192 From scratch, with word-by-word mastery tracking. Covers greetings, classroom objects, calendar phrases, body parts, numbers 1\u2013100, telling time, months, seasons, and weather."
         }
       ]
+    },
+    {
+      id: "history",
+      name: "History",
+      blurb: "Empires, trade, and culture.",
+      accent: "#4c7a5a",
+      tools: [
+        {
+          title: "West Africa Study Guide",
+          topic: "West African Empires",
+          file: "tools/history/west-africa.html",
+          date: "2026-11-25",
+          status: "done",
+          note: "Flashcards and write-in for Ghana, Mali, trans-Saharan trade, Islam, griots, and West African climates."
+        }
+      ]
     }
   ]
 };
